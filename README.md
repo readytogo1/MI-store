@@ -1,4 +1,6 @@
 # MI-store
+通过HTML5，CSS3和Javascript技术，复现小米商城主页。
+
 ## ⭐主页
 ![image](https://user-images.githubusercontent.com/89906709/226793710-c685225b-a245-4bec-a2c3-517e063008cb.png)
 ![image](https://user-images.githubusercontent.com/89906709/226793734-52bc8fe5-4685-4729-9ea9-34dd97a1f17c.png)
